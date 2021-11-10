@@ -24,7 +24,7 @@ If you recently attached a static IP to your Plesk instance, you might get a one
 1. Copy the URL to your clipboard, or make note of it\. You will need it later to sign in to the Plesk panel for the first time\.
 
 For more information, see [Set up and configure Plesk on Lightsail](set-up-and-configure-plesk-stack-on-lightsail.md)\.
-
+THE USERNAME IS ADMIN
 ## Step 2: Sign in to the Plesk panel for the first time<a name="amazon-lightsail-plesk-sign-in"></a>
 
 Paste the one\-time login URL into a web browser\. Follow the instructions on the page to create your sign in credentials for Plesk\. You should see an option to add your domain to Plesk when you sign in for the first time\.
